@@ -1,0 +1,29 @@
+
+h1 {text-align: center;}
+
+.barra {
+    width: 7rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: pink;
+}
+.item {
+    padding: 20px;
+}
+
+section {
+    position: absolute;
+    left: 90%;
+    background-color: rgb(100, 180, 237);
+    border-radius: 10px;
+}
+.principal {
+    display: flex;
+    width: 7rem;
+    justify-content: center;
+    padding: 20px;
+
+}
+
+
+
